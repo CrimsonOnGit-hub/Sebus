@@ -14,8 +14,6 @@ Dynamic Letterboxing: High-fidelity rendering that maintains aspect ratio across
 
 Input Mapping: Native support for full A-Z keyboard, Arrow keys, and coordinate-aware mouse clicking.
 
-Stealth Mode: Compiled as a native Windows GUI application with custom icon support.
-
 SebScript Example
 The following script demonstrates the basic structure of a Sebus project:
 ```
