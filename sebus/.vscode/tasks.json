@@ -1,0 +1,22 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Build Sebus",
+            "type": "shell",
+            "command": "g++",
+            "args": [
+                "-g", "sebus.cpp", "-o", "Sebus.exe",
+                "-I", "${workspaceFolder}/include",
+                "-L", "${workspaceFolder}/lib",
+                "-lsfml-graphics", "-lsfml-window", "-lsfml-system",
+                "-mwindows",
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "problemMatcher": ["$gcc"]
+        }
+    ]
+}
