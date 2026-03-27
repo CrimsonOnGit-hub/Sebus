@@ -2,7 +2,8 @@
 ## Sebus is a lightweight 2D development environment built on SFML 3. It utilizes a custom interpreted language, SebScript, designed for rapid prototyping through a human-readable, label-based syntax. The engine handles low-level tasks like physics, resolution scaling, and input mapping, allowing developers to focus entirely on game logic.
 
 Discord for the Developers of Sebus:
-<iframe src="https://discord.com/widget?id=1453911643506344029&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+
+[![Discord](https://discord.com)](https://discord.gg/)
 
 Key Features
 SebScript Interpreter: Support for .gs (GameScript) and .ls (LevelScript) files.
